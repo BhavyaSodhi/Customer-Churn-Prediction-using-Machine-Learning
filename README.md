@@ -1,1 +1,2 @@
 # Customer-Churn-Prediction-using-Machine-Learning
+This project predicts whether a customer is likely to leave a company's services using machine learning. It preprocesses customer data, trains multiple classification models, and selects the best-performing model (Logistic Regression) to identify customers at risk of churn. The prediction helps businesses improve customer retention, reduce churn, and make data-driven decisions.
